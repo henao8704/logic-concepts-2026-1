@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Folder Name="/ejercicio1/">
+    <Project Path="isnumberelderlyorminor/isnumberelderlyorminor.csproj" Id="58e27ad5-1b34-4074-b364-4831d65cb079" />
+  </Folder>
+</Solution>
